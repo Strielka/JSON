@@ -1,1 +1,6 @@
-dd
+{
+        "name": "Lana",
+        "age": 23,
+        "pets": 1,
+        "future desired salary": 500
+}
