@@ -1,9 +1,11 @@
-"№": "1",
-"Bug summary": "In the `Apple` category GET request takes a long time to load",
-"Severity": "minor",
-"Priority": "middle",
-"Steps to reproduce": "1. Go to  https://www.ebay.com/b/Apple/bn_21819543 2. Open field `Network` in DevTools  3. Check the timings of GET requests",
-"Actual result": "Slow server response time (1107 ms)",
-"Expected result": "The recommended limit is 500 ms",
-"Assignee": "Developer 1",
-"Attachment": "https://i.imgur.com/UADVqcg.png, https://i.imgur.com/sS09uxg.png"
+{
+  "№": "1",
+  "Bug summary": "In the `Apple` category GET request takes a long time to load",
+  "Severity": "minor",
+  "Priority": "middle",
+  "Steps to reproduce": "1. Go to  https://www.ebay.com/b/Apple/bn_21819543 2. Open field `Network` in DevTools  3. Check the timings of GET requests",
+  "Actual result": "Slow server response time (1107 ms)",
+  "Expected result": "The recommended limit is 500 ms",
+  "Assignee": "Developer 1",
+  "Attachment": "https://i.imgur.com/UADVqcg.png, https://i.imgur.com/sS09uxg.png"
+}
